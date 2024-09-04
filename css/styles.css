@@ -87,12 +87,13 @@ nav div a {
     display: flex;
     justify-content: space-between;
     padding: 2em;
+    margin: 5em 0;
 }
 
 .header .h1 {
     position: relative;
     font-family: 'Pali', sans-serif;
-    font-size: 32vw;
+    font-size: 12vw;
     color: var(--clr-primary);
 }
 
